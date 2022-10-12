@@ -1,7 +1,6 @@
 //pointer of an array.....
 #include<stdio.h>
 #include<conio.h>
-
 void main()
 {
 int arr[10],n,i,s=0;
