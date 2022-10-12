@@ -1,10 +1,7 @@
 //pointer of an array.....
 #include<stdio.h>
 #include<conio.h>
-void addition(int *x)
-{
-int temp;
-}
+
 void main()
 {
 int arr[10],n,i,s=0;
